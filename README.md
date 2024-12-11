@@ -1,2 +1,2 @@
-# ugrc-p4
+# UGRC-II - Programmable Data Planes and P4
 P4 and other simulation codes written as a part of Undergraduate Research Course II
